@@ -1,6 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-1010101003032,西東京バス株式会社,http://www.nisitokyobus.co.jp,Asia/Tokyo,ja,042-646-9041,,
-1000020132012,八王子市（はちバス）,https://www.city.hachioji.tokyo.jp/kurashi/life/001/002/index.html,Asia/Tokyo,ja,,,
-1000020132276,羽村市（はむらん）,https://www.city.hamura.tokyo.jp/0000008793.html,Asia/Tokyo,ja,,,
-1000020132284,あきる野市（るのバス）,https://www.city.akiruno.tokyo.jp/0000009782.html,Asia/Tokyo,ja,,,
-1000020133051,日の出町（ぐるりーんひのでちゃん）,https://www.town.hinode.tokyo.jp/0000003224.html,Asia/Tokyo,ja,,,
